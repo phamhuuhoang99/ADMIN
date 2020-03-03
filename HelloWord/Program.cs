@@ -10,7 +10,7 @@ namespace HelloWord
         public static void timSoLonNhat()
         {
             int so1, so2, so3;
-            Console.WriteLine("Nhap so 1: ");
+            Console.WriteLine("Nhap so mot: ");
             so1 = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Nhap so 2: ");
             so2 = Int32.Parse(Console.ReadLine());
